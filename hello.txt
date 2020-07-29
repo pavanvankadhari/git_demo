@@ -1,1 +1,33 @@
-Hi Hello How are you
+[Monday 1:55 PM] Shinde, Vinayak
+    
+DEvOps Session
+
+
+Version control system
+Two types
+    Central version control system- Checkin And Checkout. Eg- SVN, Rational Clear-Case, TFS
+    Distributed version control system The version control is at the users. git Mercurial
+
+
+1) git init
+2) git status
+3) git add
+4) git log
+5) git commit  -m " ....<important thing>" JIRA - change request number or bug -id
+6) git checkout <master> <dev> <commit id>
+7) git switch
+8) git merge
+9) git remote add <alias> <URL>
+10 git push remote 
+11) git clone
+
+
+
+What are branches
+Merge concept
+.gitignore
+
+
+
+
+
